@@ -1,4 +1,4 @@
-# Datasets GOOSE
+# Dataset GOOSE attacks
 
 There are three types of datasets, Original, Normalised, and Final.
 
